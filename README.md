@@ -7,16 +7,16 @@ A Self-Repaying Loan Protocol
 
 ## Overview
 
-PhoenixVault is a cutting-edge decentralized finance protocol designed to provide users with flexible, self-repaying loans. By leveraging innovative blockchain technology, we've created a lending ecosystem that prioritizes user empowerment and financial efficiency.
+PhoenixVault is a cutting-edge decentralized finance protocol designed to provide users with flexible, self-repaying loans. By leveraging the innovative financial tech that Ethena labs has developed, we've created a lending ecosystem that prioritizes user empowerment and financial efficiency.
 
-**The backbone of Phoenix lies in Ethena’s innovative staking mechanism, wherein the values of sUSDe is bound to increase and NOT decrease in any case.**
+**The backbone of Phoenix lies in Ethena’s innovative staking mechanism, wherein the value of sUSDe is bound to increase and NOT decrease in any case.**
 
-This is enabled through a sophisticated execution of:
+The USDe stablecoin is built on top of a sophisticated system that utilizes:
 * **risk management**
 * **asset management**
 * **hedging**
 * **The Reserve Fund**
-
+This make both USDe and sUSDe very valuable assets.
 
 ## Project Architecture
 
