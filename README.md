@@ -9,6 +9,15 @@ A Self-Repaying Loan Protocol
 
 PhoenixVault is a cutting-edge decentralized finance protocol designed to provide users with flexible, self-repaying loans. By leveraging innovative blockchain technology, we've created a lending ecosystem that prioritizes user empowerment and financial efficiency.
 
+**The backbone of Phoenix lies in Ethena’s innovative staking mechanism, wherein the values of sUSDe is bound to increase and NOT decrease in any case.**
+
+This is enabled through a sophisticated execution of:
+* **risk management**
+* **asset management**
+* **hedging**
+* **The Reserve Fund**
+
+
 ## Project Architecture
 
 ### 📦 Core Components
@@ -41,13 +50,14 @@ A sleek, responsive Next.js application built with Tailwind CSS, providing an in
 ### Prerequisites
 - Node.js
 - Ethereum development environment (Hardhat/Ganache)
+- Metamask Provider
 
 ### Installation
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo-name/phoenixvault.git
-   cd phoenixvault
+   git clone https://github.com/leif-runescribe/Phoenix-Protocol.git
+   cd Phoenix-Protocol
    ```
 
 2. Install dependencies
