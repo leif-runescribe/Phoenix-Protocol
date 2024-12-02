@@ -2,6 +2,11 @@
 
 A Self-Repaying Loan Protocol
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="p1.jpg" alt="Image 1" style="width: 45%;">
+  <img src="p2.jpg" alt="Image 2" style="width: 45%;">
+</div>
+
 ## Overview
 
 PhoenixVault is a cutting-edge decentralized finance protocol designed to provide users with flexible, self-repaying loans. By leveraging innovative blockchain technology, we've created a lending ecosystem that prioritizes user empowerment and financial efficiency.
