@@ -1,4 +1,4 @@
-# PhoenixVault Protocol
+# Phoenix Protocol
 
 A Self-Repaying Loan Protocol
 
@@ -23,6 +23,7 @@ A sleek, responsive Next.js application built with Tailwind CSS, providing an in
 ## Key Features
 
 ### 🌐 Unique Lending Mechanism
+- **Phoenix Vaults**: ERC721 Vaults, unique for each loan event, keeping track of key details
 - **Collateral Deposit**: Lock sUSDe tokens in the vault
 - **Flexible Borrowing**: Up to 75% loan-to-value ratio
 - **Self-Reducing Debt**: Innovative negative interest model (-15% APY)
