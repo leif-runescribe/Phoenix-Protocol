@@ -2,10 +2,8 @@
 
 A Self-Repaying Loan Protocol
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="p1.jpg" alt="Image 1" style="width: 45%;">
-  <img src="p2.jpg" alt="Image 2" style="width: 45%;">
-</div>
+
+![pic](p2.png)
 
 ## Overview
 
